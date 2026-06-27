@@ -1,14 +1,4 @@
 {
   "channel": "stable",
-  "updates": [
-    {
-      "version": "1.0.1",
-      "type": "free",
-      "title": "Bug fixes & improvements",
-      "notes": "Fixed PDF generation issues, improved sync reliability",
-      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v1.0.1/LegalBill.Setup.1.0.1.exe",
-      "releaseDate": "2026-07-01",
-      "minTier": "bsc"
-    }
-  ]
+  "updates": []
 }

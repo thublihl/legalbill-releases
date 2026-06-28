@@ -1,4 +1,14 @@
 {
   "channel": "stable",
-  "updates": []
+  "updates": [
+    {
+      "version": "1.2.0",
+      "type": "free",
+      "title": "Performance improvements & UI polish",
+      "notes": "Faster load times, improved PDF export, bug fixes",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v1.2.0/LegalBill.Setup.1.2.0.exe",
+      "releaseDate": "2026-07-01",
+      "minTier": "bsc"
+    }
+  ]
 }

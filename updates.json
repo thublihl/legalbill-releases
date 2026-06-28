@@ -2,12 +2,12 @@
   "channel": "stable",
   "updates": [
     {
-      "version": "1.2.0",
+      "version": "1.3.0",
       "type": "free",
-      "title": "Performance improvements & UI polish",
-      "notes": "Faster load times, improved PDF export, bug fixes",
-      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v1.2.0/LegalBill.Setup.1.1.0.exe",
-      "releaseDate": "2026-07-01",
+      "title": "Premium login redesign & bug fixes",
+      "notes": "New premium login screen, fixed inactive inputs after logout, update banner above sidebar",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v1.3.0/LegalBill.Setup.1.3.0.exe",
+      "releaseDate": "2026-06-28",
       "minTier": "bsc"
     }
   ]

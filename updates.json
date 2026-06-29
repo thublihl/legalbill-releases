@@ -2,6 +2,15 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "1.5.0",
+      "type": "free",
+      "title": "Print fix, Share sheet & Login freeze fix",
+      "notes": "Print now works without pop-up permissions. Send/Share opens a full share sheet with email (from/to form), WhatsApp, Google Drive, and more options. Login page no longer freezes on slow connections — 20s timeout with live feedback.",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v1.5.0/LegalBill.Setup.1.5.0.exe",
+      "releaseDate": "2026-06-29",
+      "minTier": "bsc"
+    },
+    {
       "version": "1.4.0",
       "type": "free",
       "title": "Premium UI redesign",

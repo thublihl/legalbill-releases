@@ -2,6 +2,15 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "1.4.0",
+      "type": "free",
+      "title": "Premium UI redesign",
+      "notes": "Completely redesigned interface — richer shadows, gradient header, gold-accented sidebar, polished stat cards, refined buttons and badges, glass modals, and smoother animations throughout.",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v1.4.0/LegalBill.Setup.1.4.0.exe",
+      "releaseDate": "2026-06-29",
+      "minTier": "bsc"
+    },
+    {
       "version": "1.3.0",
       "type": "free",
       "title": "Premium login redesign & bug fixes",

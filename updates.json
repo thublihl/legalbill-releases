@@ -2,6 +2,15 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "1.7.0",
+      "type": "free",
+      "title": "Print preview + real email sending",
+      "notes": "Print now shows a full-screen PDF preview before printing — see exactly what will come out. Email/Send now actually delivers the document: configure your SMTP server once under Settings → Email (SMTP) and LegalBill sends the PDF as an attachment directly from the app. Supports Gmail, Outlook/365, and any custom SMTP server.",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v1.7.0/LegalBill.Setup.1.7.0.exe",
+      "releaseDate": "2026-06-29",
+      "minTier": "bsc"
+    },
+    {
       "version": "1.6.0",
       "type": "free",
       "title": "New login page design",

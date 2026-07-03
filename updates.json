@@ -2,6 +2,15 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "1.9.0",
+      "type": "free",
+      "title": "Smarter first-time setup",
+      "notes": "Setup now asks whether this is your firm's first installation or a secondary device. First install runs the full flow (database, firm details, administrator account); a secondary device just connects to the existing firm database and goes straight to sign-in. The 'Set up the firm administrator' link no longer appears on the login page once setup is complete. Administrators create staff accounts with a temporary password that each user can change under My account.",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v1.9.0/LegalBill.Setup.1.9.0.exe",
+      "releaseDate": "2026-07-03",
+      "minTier": "bsc"
+    },
+    {
       "version": "1.8.0",
       "type": "free",
       "title": "Modern UI/UX refresh",

@@ -2,6 +2,15 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "1.8.0",
+      "type": "free",
+      "title": "Modern UI/UX refresh",
+      "notes": "Complete visual refresh to modern standards — refined design system with softer shadows and larger radii, glass-blur header and mobile tab bar, animated aurora login screen with glass card and shine-hover sign-in button, elevated stat cards and panels with hover lift, polished buttons, inputs, badges, modals and toasts, smoother micro-interactions throughout, custom scrollbars, and reduced-motion accessibility support.",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v1.8.0/LegalBill.Setup.1.8.0.exe",
+      "releaseDate": "2026-07-03",
+      "minTier": "bsc"
+    },
+    {
       "version": "1.7.0",
       "type": "free",
       "title": "Print preview + real email sending",

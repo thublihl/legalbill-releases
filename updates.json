@@ -2,11 +2,11 @@
   "channel": "stable",
   "updates": [
     {
-      "version": "1.10.0",
+      "version": "2.0.0",
       "type": "free",
       "title": "Court matters, tariffs & Bill of Costs",
-      "notes": "Major update for litigation billing. Create matters as High Court, Magistrate/Regional Court or Miscellaneous — each gets an automatic firm reference and a court case-number field you fill in later. New editable High Court and Magistrate fee-tariff tables (from the 2025 gazettes) under Settings. Fee notes now take hours AND minutes with a work-done dropdown that auto-loads the tariff unit and rate, billed per unit 'or part thereof', plus a per-line date. Generate a full Bill of Costs (High Court / Magistrate format) aggregating every fee note on a matter, or a single invoice per fee note. Document fixes: firm-name/title header overlap resolved, larger logo, aligned columns, and a professional banking-details block.",
-      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v1.10.0/LegalBill.Setup.1.10.0.exe",
+      "notes": "Major update for litigation billing. Create matters as High Court, Magistrate/Regional Court or Miscellaneous — each gets an automatic firm reference and a court case-number field you fill in later. New editable High Court and Magistrate fee-tariff tables (from the 2025 gazettes) under Settings. Fee notes now take hours AND minutes with a work-done dropdown that auto-loads the tariff unit and rate, billed per unit 'or part thereof', plus a per-line date. Generate a full Bill of Costs (High Court / Magistrate format) aggregating every fee note on a matter, or a single invoice per fee note. Document fixes: firm-name/title header overlap resolved, larger logo, aligned columns, and a professional banking-details block. Also fixes update detection so future versions (2.1, 2.10, …) are always found.",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.0.0/LegalBill.Setup.2.0.0.exe",
       "releaseDate": "2026-07-05",
       "minTier": "bsc"
     },

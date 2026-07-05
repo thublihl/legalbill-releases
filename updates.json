@@ -2,6 +2,15 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "2.1.1",
+      "type": "free",
+      "title": "Full gazette tariff lists — every item",
+      "notes": "Completeness update to the fee tariffs. The High Court and Magistrate work-done dropdowns now contain EVERY line item exactly as published in the 2025 gazettes, including the descriptive sub-items that were previously omitted: the Sec 65 / 72 / 74 'additional costs allowed' disbursement and tracing lines, the collection-commission percentages, the reserved gazette slots (High Court D-04, Magistrate IV-25), Part I-05, and the counsel travelling-time line. High Court now has 33 items; Magistrate has 148 (Table A Parts I–IV and Table B Parts I–III). Descriptions were re-transcribed to match the gazette wording. All rates, percentage caps and minimums are editable under Settings → High Court / Magistrate tariffs.",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.1.1/LegalBill.Setup.2.1.1.exe",
+      "releaseDate": "2026-07-05",
+      "minTier": "bsc"
+    },
+    {
       "version": "2.1.0",
       "type": "free",
       "title": "Complete court tariffs & Bill of Costs polish",

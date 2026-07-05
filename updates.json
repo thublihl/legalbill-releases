@@ -2,11 +2,11 @@
   "channel": "stable",
   "updates": [
     {
-      "version": "2.1.2",
+      "version": "2.2.0",
       "type": "free",
-      "title": "Matters tab, update-detection fix + full tariffs applied to existing data",
-      "notes": "New Matters tab: create and manage matters directly, choosing High Court, Magistrate/Regional Court or Miscellaneous (non-court). Each matter gets an automatic firm reference; court matters have a court case-number field to fill in once the court issues it (about 24 hours), plus court name(s) and applicant/respondent names — miscellaneous matters have no case number. Every detail is editable at any time, and a matter's parties and court auto-fill its Bill of Costs. Also fixes update detection: the app now reads its real installed version directly instead of a stored flag that could get stuck, and always fetches the latest update manifest (no stale cache). Existing installations automatically receive the complete High Court (33) and Magistrate (148) gazette tariff lists via a one-time migration that preserves any rates you have edited. Install this once (double-click the installer) and future updates will be detected automatically. Also repairs internal files so the app starts reliably.",
-      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.1.2/LegalBill.Setup.2.1.2.exe",
+      "title": "Matters tab + reliable updates + full tariffs",
+      "notes": "New Matters tab: create and manage matters directly, choosing High Court, Magistrate/Regional Court or Miscellaneous (non-court). Each matter gets an automatic firm reference; court matters have a court case-number field to fill in once the court issues it (about 24 hours), plus court name(s) and applicant/respondent names, and these auto-fill the Bill of Costs. Miscellaneous matters have no case number. Every detail is editable at any time. Also: update detection now reads the real installed version (no more getting stuck) and always fetches the latest manifest; existing installs receive the complete High Court (33) and Magistrate (148) gazette tariff lists via a one-time migration that keeps any edited rates; and internal files were repaired so the app starts reliably. Install this once by double-clicking the installer and future updates are detected automatically.",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.2.0/LegalBill.Setup.2.2.0.exe",
       "releaseDate": "2026-07-05",
       "minTier": "bsc"
     },

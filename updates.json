@@ -2,6 +2,15 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "2.1.0",
+      "type": "free",
+      "title": "Complete court tariffs & Bill of Costs polish",
+      "notes": "The work-done dropdowns now contain EVERY line item from the 2025 gazettes — no shortcuts. High Court (Notice 52750): full sections A–F including the Bill-of-Costs and taxation percentages. Magistrate/Regional Court (Notice 53149): full Table A Parts I–IV and Table B Parts I–III (Sec 65 / 72 / 74). Percentage items (bill of costs, taxation, collection commission) now calculate from a base amount with the correct minimum and maximum caps, and reference-only items accept a manual amount. Each tariff item — including the percentages — is editable under Settings → High Court / Magistrate tariffs. Bill of Costs now prints the gazette citation line (Notice number and effective date) like a real court document, and the firm logo is larger on all documents. Also includes a stability fix to the document engine.",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.1.0/LegalBill.Setup.2.1.0.exe",
+      "releaseDate": "2026-07-05",
+      "minTier": "bsc"
+    },
+    {
       "version": "2.0.0",
       "type": "free",
       "title": "Court matters, tariffs & Bill of Costs",

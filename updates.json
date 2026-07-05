@@ -2,6 +2,15 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "2.1.2",
+      "type": "free",
+      "title": "Update-detection fix + full tariffs applied to existing data",
+      "notes": "Fixes update detection: the app now reads its real installed version directly instead of a stored flag that could get stuck, and always fetches the latest update manifest (no stale cache). Existing installations automatically receive the complete High Court (33) and Magistrate (148) gazette tariff lists via a one-time migration that preserves any rates you have edited. If you were stuck and never saw new versions, install this once (double-click the installer) and future updates will be detected automatically. Also repairs internal files so the app starts reliably.",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.1.2/LegalBill.Setup.2.1.2.exe",
+      "releaseDate": "2026-07-05",
+      "minTier": "bsc"
+    },
+    {
       "version": "2.1.1",
       "type": "free",
       "title": "Full gazette tariff lists — every item",

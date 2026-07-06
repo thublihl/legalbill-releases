@@ -2,6 +2,15 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "2.3.1",
+      "type": "free",
+      "title": "Reliable in-app update downloads",
+      "notes": "Fixes the in-app updater so downloads no longer freeze part-way (for example, stuck at 52%). A stalled download now times out cleanly, shows a clear message, and offers a one-click 'Download in your browser instead' option. Includes everything from 2.3.0: each Settings function has its own tab (Cost estimates, Receipts, Firm details, Billing settings, Court fee tariffs, User management, My account) and the Settings tab is renamed Configuration settings.",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.3.1/LegalBill.Setup.2.3.1.exe",
+      "releaseDate": "2026-07-05",
+      "minTier": "bsc"
+    },
+    {
       "version": "2.3.0",
       "type": "free",
       "title": "Reorganised navigation — a tab for each area",

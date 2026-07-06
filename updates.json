@@ -2,10 +2,19 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "2.3.0",
+      "type": "free",
+      "title": "Reorganised navigation — a tab for each area",
+      "notes": "The Settings area has been split up so each function has its own tab: Cost estimates, Receipts, Firm details, Billing settings, Court fee tariffs, User management and My account are now separate tabs in the sidebar. The old PDF-report shortcut was removed (client statements are still available from a client's page), and the remaining Settings tab is renamed Configuration settings. Firm details, Billing settings, Court fee tariffs, User management and Configuration settings stay administrator-only.",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.3.0/LegalBill.Setup.2.3.0.exe",
+      "releaseDate": "2026-07-05",
+      "minTier": "bsc"
+    },
+    {
       "version": "2.2.0",
       "type": "free",
       "title": "Matters tab + reliable updates + full tariffs",
-      "notes": "New Matters tab: create and manage matters directly, choosing High Court, Magistrate/Regional Court or Miscellaneous (non-court). Each matter gets an automatic firm reference; court matters have a court case-number field to fill in once the court issues it (about 24 hours), plus court name(s) and applicant/respondent names, and these auto-fill the Bill of Costs. Miscellaneous matters have no case number. Every detail is editable at any time. Also: update detection now reads the real installed version (no more getting stuck) and always fetches the latest manifest; existing installs receive the complete High Court (33) and Magistrate (148) gazette tariff lists via a one-time migration that keeps any edited rates; and internal files were repaired so the app starts reliably. Install this once by double-clicking the installer and future updates are detected automatically.",
+      "notes": "New Matters tab to create and manage matters (High Court / Magistrate / Miscellaneous) with an automatic firm reference, a later court case number, court name(s) and applicant/respondent names that auto-fill the Bill of Costs; miscellaneous matters have no case number and everything is editable any time. Update detection now reads the real installed version and always fetches the latest manifest; existing installs receive the complete High Court (33) and Magistrate (148) gazette tariff lists via a one-time migration that keeps edited rates; and internal files were repaired for reliable startup.",
       "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.2.0/LegalBill.Setup.2.2.0.exe",
       "releaseDate": "2026-07-05",
       "minTier": "bsc"
@@ -14,7 +23,7 @@
       "version": "2.1.1",
       "type": "free",
       "title": "Full gazette tariff lists — every item",
-      "notes": "Completeness update to the fee tariffs. The High Court and Magistrate work-done dropdowns now contain EVERY line item exactly as published in the 2025 gazettes, including the descriptive sub-items that were previously omitted: the Sec 65 / 72 / 74 'additional costs allowed' disbursement and tracing lines, the collection-commission percentages, the reserved gazette slots (High Court D-04, Magistrate IV-25), Part I-05, and the counsel travelling-time line. High Court now has 33 items; Magistrate has 148 (Table A Parts I–IV and Table B Parts I–III). Descriptions were re-transcribed to match the gazette wording. All rates, percentage caps and minimums are editable under Settings → High Court / Magistrate tariffs.",
+      "notes": "Completeness update to the fee tariffs. The High Court and Magistrate work-done dropdowns now contain every line item exactly as published in the 2025 gazettes, including the Sec 65/72/74 additional-costs disbursement and tracing lines, collection-commission percentages, the reserved slots (High Court D-04, Magistrate IV-25), Part I-05, and the counsel travelling-time line. High Court 33 items; Magistrate 148 items. Descriptions re-transcribed to match the gazette. All rates, caps and minimums editable under Settings.",
       "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.1.1/LegalBill.Setup.2.1.1.exe",
       "releaseDate": "2026-07-05",
       "minTier": "bsc"
@@ -23,7 +32,7 @@
       "version": "2.1.0",
       "type": "free",
       "title": "Complete court tariffs & Bill of Costs polish",
-      "notes": "The work-done dropdowns now contain EVERY line item from the 2025 gazettes — no shortcuts. High Court (Notice 52750): full sections A–F including the Bill-of-Costs and taxation percentages. Magistrate/Regional Court (Notice 53149): full Table A Parts I–IV and Table B Parts I–III (Sec 65 / 72 / 74). Percentage items (bill of costs, taxation, collection commission) now calculate from a base amount with the correct minimum and maximum caps, and reference-only items accept a manual amount. Each tariff item — including the percentages — is editable under Settings → High Court / Magistrate tariffs. Bill of Costs now prints the gazette citation line (Notice number and effective date) like a real court document, and the firm logo is larger on all documents. Also includes a stability fix to the document engine.",
+      "notes": "The work-done dropdowns now contain every line item from the 2025 gazettes. High Court (Notice 52750): full sections A-F including Bill-of-Costs and taxation percentages. Magistrate (Notice 53149): full Table A Parts I-IV and Table B Parts I-III (Sec 65/72/74). Percentage items calculate from a base with min/max caps; reference-only items accept a manual amount; all items editable under Settings. Bill of Costs prints the gazette citation line, and the firm logo is larger on all documents.",
       "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.1.0/LegalBill.Setup.2.1.0.exe",
       "releaseDate": "2026-07-05",
       "minTier": "bsc"
@@ -32,7 +41,7 @@
       "version": "2.0.0",
       "type": "free",
       "title": "Court matters, tariffs & Bill of Costs",
-      "notes": "Major update for litigation billing. Create matters as High Court, Magistrate/Regional Court or Miscellaneous — each gets an automatic firm reference and a court case-number field you fill in later. New editable High Court and Magistrate fee-tariff tables (from the 2025 gazettes) under Settings. Fee notes now take hours AND minutes with a work-done dropdown that auto-loads the tariff unit and rate, billed per unit 'or part thereof', plus a per-line date. Generate a full Bill of Costs (High Court / Magistrate format) aggregating every fee note on a matter, or a single invoice per fee note. Document fixes: firm-name/title header overlap resolved, larger logo, aligned columns, and a professional banking-details block. Also fixes update detection so future versions (2.1, 2.10, …) are always found.",
+      "notes": "Major update for litigation billing. Create matters as High Court, Magistrate/Regional Court or Miscellaneous, each with an automatic firm reference and a court case-number field. Editable High Court and Magistrate fee-tariff tables under Settings. Fee notes take hours and minutes with a tariff work-done dropdown, plus per-line dates. Generate a full Bill of Costs per matter or a single invoice per fee note.",
       "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.0.0/LegalBill.Setup.2.0.0.exe",
       "releaseDate": "2026-07-05",
       "minTier": "bsc"
@@ -41,7 +50,7 @@
       "version": "1.9.0",
       "type": "free",
       "title": "Smarter first-time setup",
-      "notes": "Setup now asks whether this is your firm's first installation or a secondary device. First install runs the full flow (database, firm details, administrator account); a secondary device just connects to the existing firm database and goes straight to sign-in. The 'Set up the firm administrator' link no longer appears on the login page once setup is complete. Administrators create staff accounts with a temporary password that each user can change under My account.",
+      "notes": "Setup now asks whether this is your firm's first installation or a secondary device. First install runs the full flow; a secondary device connects to the existing firm database and goes straight to sign-in. Administrators create staff accounts with a temporary password that each user can change under My account.",
       "url": "https://github.com/thublihl/legalbill-releases/releases/download/v1.9.0/LegalBill.Setup.1.9.0.exe",
       "releaseDate": "2026-07-03",
       "minTier": "bsc"
@@ -50,7 +59,7 @@
       "version": "1.8.0",
       "type": "free",
       "title": "Modern UI/UX refresh",
-      "notes": "Complete visual refresh to modern standards — refined design system with softer shadows and larger radii, glass-blur header and mobile tab bar, animated aurora login screen with glass card and shine-hover sign-in button, elevated stat cards and panels with hover lift, polished buttons, inputs, badges, modals and toasts, smoother micro-interactions throughout, custom scrollbars, and reduced-motion accessibility support.",
+      "notes": "Complete visual refresh to modern standards with a refined design system, glass-blur header and tab bar, animated login, elevated cards, and smoother interactions.",
       "url": "https://github.com/thublihl/legalbill-releases/releases/download/v1.8.0/LegalBill.Setup.1.8.0.exe",
       "releaseDate": "2026-07-03",
       "minTier": "bsc"
@@ -59,7 +68,7 @@
       "version": "1.7.0",
       "type": "free",
       "title": "Print preview + real email sending",
-      "notes": "Print now shows a full-screen PDF preview before printing — see exactly what will come out. Email/Send now actually delivers the document: configure your SMTP server once under Settings → Email (SMTP) and LegalBill sends the PDF as an attachment directly from the app. Supports Gmail, Outlook/365, and any custom SMTP server.",
+      "notes": "Print shows a full-screen PDF preview before printing. Email/Send delivers the document as a PDF attachment via your SMTP server, configured under Settings.",
       "url": "https://github.com/thublihl/legalbill-releases/releases/download/v1.7.0/LegalBill.Setup.1.7.0.exe",
       "releaseDate": "2026-06-29",
       "minTier": "bsc"
@@ -68,7 +77,7 @@
       "version": "1.6.0",
       "type": "free",
       "title": "New login page design",
-      "notes": "Completely redesigned login screen — dark navy background with animated glow, centered floating card, gold top accent, logo & wordmark header, password show/hide toggle, and smooth card entrance animation.",
+      "notes": "Redesigned login screen with animated glow, floating card, gold accent, logo header and password show/hide toggle.",
       "url": "https://github.com/thublihl/legalbill-releases/releases/download/v1.6.0/LegalBill.Setup.1.6.0.exe",
       "releaseDate": "2026-06-29",
       "minTier": "bsc"
@@ -77,7 +86,7 @@
       "version": "1.5.0",
       "type": "free",
       "title": "Print fix, Share sheet & Login freeze fix",
-      "notes": "Print now works without pop-up permissions. Send/Share opens a full share sheet with email (from/to form), WhatsApp, Google Drive, and more options. Login page no longer freezes on slow connections — 20s timeout with live feedback.",
+      "notes": "Print works without pop-up permissions. Send/Share opens a full share sheet. Login no longer freezes on slow connections.",
       "url": "https://github.com/thublihl/legalbill-releases/releases/download/v1.5.0/LegalBill.Setup.1.5.0.exe",
       "releaseDate": "2026-06-29",
       "minTier": "bsc"
@@ -86,7 +95,7 @@
       "version": "1.4.0",
       "type": "free",
       "title": "Premium UI redesign",
-      "notes": "Completely redesigned interface — richer shadows, gradient header, gold-accented sidebar, polished stat cards, refined buttons and badges, glass modals, and smoother animations throughout.",
+      "notes": "Redesigned interface with richer shadows, gradient header, gold-accented sidebar, polished cards, buttons and badges.",
       "url": "https://github.com/thublihl/legalbill-releases/releases/download/v1.4.0/LegalBill.Setup.1.4.0.exe",
       "releaseDate": "2026-06-29",
       "minTier": "bsc"
@@ -95,7 +104,7 @@
       "version": "1.3.0",
       "type": "free",
       "title": "Premium login redesign & bug fixes",
-      "notes": "New premium login screen, fixed inactive inputs after logout, update banner above sidebar",
+      "notes": "New premium login screen, fixed inactive inputs after logout, update banner above sidebar.",
       "url": "https://github.com/thublihl/legalbill-releases/releases/download/v1.3.0/LegalBill.Setup.1.3.0.exe",
       "releaseDate": "2026-06-28",
       "minTier": "bsc"

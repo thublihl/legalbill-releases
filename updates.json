@@ -2,6 +2,15 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "2.4.2",
+      "type": "free",
+      "title": "Design polish",
+      "notes": "Fixes the last rough edges of the new minimalist look: the dropdown arrow no longer tiles across the field (the row of chevron marks is gone), the header and login logo are now a terracotta scale mark that matches the theme instead of the old navy icon, and the Trust and VAT total cards are now clean white cards with the amount in terracotta instead of a heavy dark-brown block. Install by double-clicking the installer; your data is untouched.",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.4.2/LegalBill.Setup.2.4.2.exe",
+      "releaseDate": "2026-07-05",
+      "minTier": "bsc"
+    },
+    {
       "version": "2.4.1",
       "type": "free",
       "title": "Fix startup crash + refined minimalist design",

@@ -2,6 +2,15 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "2.3.2",
+      "type": "free",
+      "title": "Fix: sign-in restored",
+      "notes": "Critical fix. Versions 2.3.0 and 2.3.1 shipped with a truncated script that removed the sign-in code, so the app could not log in. This release restores the full login and startup code. It also keeps everything from 2.3.x: each Settings function in its own tab, the Settings tab renamed Configuration settings, and the reliable in-app update downloader with a browser-download fallback. If you are stuck on the login screen, install this once by double-clicking the installer.",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.3.2/LegalBill.Setup.2.3.2.exe",
+      "releaseDate": "2026-07-05",
+      "minTier": "bsc"
+    },
+    {
       "version": "2.3.1",
       "type": "free",
       "title": "Reliable in-app update downloads",

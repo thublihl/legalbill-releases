@@ -2,6 +2,15 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "2.4.1",
+      "type": "free",
+      "title": "Fix: startup crash (JavaScript error)",
+      "notes": "Fixes a 'JavaScript error occurred in the main process' crash on launch by loading the email module only when it is actually used, so a missing component can no longer stop the app from starting. Includes the 2.4.0 minimalist redesign (warm paper, terracotta accent, flat surfaces) and the restored sign-in code. Install this once by double-clicking the installer; your data is untouched.",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.4.1/LegalBill.Setup.2.4.1.exe",
+      "releaseDate": "2026-07-05",
+      "minTier": "bsc"
+    },
+    {
       "version": "2.4.0",
       "type": "free",
       "title": "New minimalist design + sign-in fix",

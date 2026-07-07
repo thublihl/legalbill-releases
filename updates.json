@@ -2,6 +2,15 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "2.5.1",
+      "type": "free",
+      "title": "Sign-in fix (critical)",
+      "notes": "Fixes sign-in, which was broken since v2.4.5: the application code inside the app was accidentally truncated during that release, so the sign-in button did nothing. The full code has been restored (and verified against the last known-good version). Includes the new clean white theme from v2.5.0. Please install this update.",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.5.1/LegalBill.Setup.2.5.1.exe",
+      "releaseDate": "2026-07-07",
+      "minTier": "bsc"
+    },
+    {
       "version": "2.5.0",
       "type": "free",
       "title": "All-new clean white theme",

@@ -2,6 +2,15 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "2.6.0",
+      "type": "free",
+      "title": "Premium document redesign",
+      "notes": "Fee notes, receipts, quotes and statements have been redesigned to look more professional. The firm name at the top no longer overlaps the document title, oversized text has been toned down, and the fee tables now have clean aligned columns with clear hairline rows. Totals are shown in a single elegant block (Subtotal, Total, Paid, Balance due). No data changes.",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.6.0/LegalBill.Setup.2.6.0.exe",
+      "releaseDate": "2026-07-07",
+      "minTier": "bsc"
+    },
+    {
       "version": "2.5.1",
       "type": "free",
       "title": "Sign-in fix (critical)",

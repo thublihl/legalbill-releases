@@ -2,6 +2,15 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "2.6.1",
+      "type": "free",
+      "title": "Document polish",
+      "notes": "Three refinements to the generated documents: the 'TAX INVOICE / FEE NOTE' style heading at the top-right is now a smaller, brand-coloured size instead of oversized; the 'Amount' column heading is right-aligned so it sits exactly above its values; and the gold accent lines in the letterhead are thinner and more subtle. Applies to fee notes, receipts, quotes and statements.",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.6.1/LegalBill.Setup.2.6.1.exe",
+      "releaseDate": "2026-07-07",
+      "minTier": "bsc"
+    },
+    {
       "version": "2.6.0",
       "type": "free",
       "title": "Premium document redesign",

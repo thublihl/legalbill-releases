@@ -2,6 +2,15 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "2.6.3",
+      "type": "free",
+      "title": "Login-after-logout fix",
+      "notes": "Fixes the login page being frozen/unclickable after you sign out (previously you had to restart the app). A leftover setup/overlay screen could sit invisibly on top of the sign-in form and swallow your clicks. The sign-in screen now always clears anything on top of it, so you can log straight back in.",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.6.3/LegalBill.Setup.2.6.3.exe",
+      "releaseDate": "2026-07-07",
+      "minTier": "bsc"
+    },
+    {
       "version": "2.6.2",
       "type": "free",
       "title": "Freezing / performance fix",

@@ -2,6 +2,15 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "2.6.2",
+      "type": "free",
+      "title": "Freezing / performance fix",
+      "notes": "Fixes the app freezing. A background cloud-sync was accidentally re-triggering itself every 3 seconds, re-uploading all your data over and over and locking up the screen. Sync now runs only when something has actually changed, never while you are filling in a form, and the first sync after login is delayed so the app is usable immediately. Also caps the internal activity log so the app stays fast over time.",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.6.2/LegalBill.Setup.2.6.2.exe",
+      "releaseDate": "2026-07-07",
+      "minTier": "bsc"
+    },
+    {
       "version": "2.6.1",
       "type": "free",
       "title": "Document polish",

@@ -2,6 +2,15 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "2.6.9",
+      "type": "free",
+      "title": "Bill of Costs — single continuous table",
+      "notes": "The Bill of Costs now shows the items and the taxation section as one continuous table: the grand total and the taxation breakdown (Less taxed off, Subtotal, VAT, Drawing fee, Disbursements, Attending taxation) follow directly under the last item, with the amount-in-words line and Taxing Master signature beneath. The firm's certificate — gazette citation, 'Dated at', signature and banking details — now appears last, at the very end of the bill. Applies to High Court and Magistrate bills.",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.6.9/LegalBill.Setup.2.6.9.exe",
+      "releaseDate": "2026-07-08",
+      "minTier": "bsc"
+    },
+    {
       "version": "2.6.8",
       "type": "free",
       "title": "Bill of Costs taxation block + matter parties",

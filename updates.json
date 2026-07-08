@@ -2,6 +2,15 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "2.6.14",
+      "type": "free",
+      "title": "Readable Canaan AI signature on the sign-in screen",
+      "notes": "Follow-up to v2.6.13: the 'Powered by Canaan AI' signature on the sign-in screen is now fully legible on the white login card. The 'Intelligent solutions for Africa & beyond' tagline is now shown as proper text beneath the Canaan AI logo (it was previously too small to read inside the logo), and the 'Powered by' label has been darkened so it stands out clearly. The support@canaanai.co.za contact is unchanged.",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.6.14/LegalBill.Setup.2.6.14.exe",
+      "releaseDate": "2026-07-08",
+      "minTier": "bsc"
+    },
+    {
       "version": "2.6.13",
       "type": "free",
       "title": "Canaan AI branding on the sign-in screen",

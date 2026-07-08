@@ -2,6 +2,15 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "2.6.4",
+      "type": "free",
+      "title": "Update download fix (resume on drop)",
+      "notes": "Fixes the in-app update download freezing partway (e.g. stuck at 4%) on unstable connections. The download now automatically reconnects and continues from where it stopped instead of starting over, and retries several times. If it still can't finish, a 'Download in browser' link lets you fetch the installer manually.",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.6.4/LegalBill.Setup.2.6.4.exe",
+      "releaseDate": "2026-07-07",
+      "minTier": "bsc"
+    },
+    {
       "version": "2.6.3",
       "type": "free",
       "title": "Login-after-logout fix",

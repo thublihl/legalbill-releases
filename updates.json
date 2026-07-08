@@ -2,6 +2,15 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "2.6.7",
+      "type": "free",
+      "title": "Login-after-logout freeze — real fix",
+      "notes": "Definitively fixes the login page being frozen after you sign out (you previously had to close and reopen the app). The sign-out confirmation used a native Windows pop-up, and after it closed the window could lose keyboard/mouse focus, leaving the sign-in page visible but unresponsive. Signing out now uses an in-app confirmation that stays inside the window, so the login screen always stays clickable and you can sign straight back in.",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.6.7/LegalBill.Setup.2.6.7.exe",
+      "releaseDate": "2026-07-08",
+      "minTier": "bsc"
+    },
+    {
       "version": "2.6.6",
       "type": "free",
       "title": "Instant logout / login fix",

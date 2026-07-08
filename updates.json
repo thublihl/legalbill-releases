@@ -2,6 +2,15 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "2.6.13",
+      "type": "free",
+      "title": "Canaan AI branding on the sign-in screen",
+      "notes": "The sign-in screen now carries a professional 'Powered by Canaan AI' signature — the Canaan AI logo and the support@canaanai.co.za contact — beneath the sign-in form.",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.6.13/LegalBill.Setup.2.6.13.exe",
+      "releaseDate": "2026-07-08",
+      "minTier": "bsc"
+    },
+    {
       "version": "2.6.12",
       "type": "free",
       "title": "Court dropdown on New Matter (and Bill of Costs)",

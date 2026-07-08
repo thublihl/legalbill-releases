@@ -2,6 +2,15 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "2.6.5",
+      "type": "free",
+      "title": "Update crash fix",
+      "notes": "Stops the app crashing with 'A JavaScript error occurred in the main process' when an update download does not complete. The installer launch is now fully guarded, incomplete downloads are retried instead of run, and a global safety net prevents any stray error from crashing the app.",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.6.5/LegalBill.Setup.2.6.5.exe",
+      "releaseDate": "2026-07-07",
+      "minTier": "bsc"
+    },
+    {
       "version": "2.6.4",
       "type": "free",
       "title": "Update download fix (resume on drop)",

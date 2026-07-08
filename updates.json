@@ -2,6 +2,15 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "2.6.11",
+      "type": "free",
+      "title": "Searchable court picker on the Bill of Costs",
+      "notes": "When generating a Bill of Costs, the Court heading is now a searchable dropdown. For a High Court matter it lists every High Court division and seat in South Africa; for a Magistrate's Court matter it lists the magistrate's courts nationwide. Start typing to filter (by town or division), pick one to fill the full heading, or just type your own court name if it isn't in the list.",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.6.11/LegalBill.Setup.2.6.11.exe",
+      "releaseDate": "2026-07-08",
+      "minTier": "bsc"
+    },
+    {
       "version": "2.6.10",
       "type": "free",
       "title": "Fee notes grouped by matter + matter payments",

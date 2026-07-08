@@ -2,6 +2,15 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "2.6.10",
+      "type": "free",
+      "title": "Fee notes grouped by matter + matter payments",
+      "notes": "Fee notes are now grouped under their matter everywhere, in collapsible sections you can expand to view or edit each one. High Court and Magistrate matters are billed and paid as a whole: the matter shows one combined total and balance, and you record a single payment against the matter (individual court fee notes no longer take their own payment). A court matter must be marked Finalised before you can record payment — matching the rule that court fees are paid once the matter is finalised in court; each matter payment produces a professional matter receipt. Miscellaneous matters keep their per-fee-note invoices and receipts. Dashboard, aging and 'received' totals now count court matters at matter level. The Bill of Costs taxing-master section has been redesigned as a proper Allocatur certificate.",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.6.10/LegalBill.Setup.2.6.10.exe",
+      "releaseDate": "2026-07-08",
+      "minTier": "bsc"
+    },
+    {
       "version": "2.6.9",
       "type": "free",
       "title": "Bill of Costs — single continuous table",

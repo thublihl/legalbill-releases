@@ -2,6 +2,15 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "2.6.8",
+      "type": "free",
+      "title": "Bill of Costs taxation block + matter parties",
+      "notes": "Bill of Costs (High Court and Magistrate): the grand total no longer repeats at the bottom of every page — it now appears once at the end, followed by a taxation section (Less taxed off, Subtotal, Plus 15% VAT on fees, Add 11% drawing fee, Subtotal, Add disbursements, Subtotal, Add attending taxation) with an amount-in-words line and a Taxing Master signature. The blank amounts are completed by the court on taxation. When creating or editing a matter, applicants and respondents are now entered as separate name + role rows (1st Applicant, 2nd Applicant, and so on) with add and remove buttons, matching the Bill of Costs form.",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.6.8/LegalBill.Setup.2.6.8.exe",
+      "releaseDate": "2026-07-08",
+      "minTier": "bsc"
+    },
+    {
       "version": "2.6.7",
       "type": "free",
       "title": "Login-after-logout freeze — real fix",

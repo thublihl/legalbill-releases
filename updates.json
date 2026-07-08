@@ -2,6 +2,15 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "2.6.12",
+      "type": "free",
+      "title": "Court dropdown on New Matter (and Bill of Costs)",
+      "notes": "When you register or edit a matter, the Court name field is now a searchable dropdown that matches the matter type: a High Court matter shows all South African High Courts, a Magistrate's Court matter shows the magistrate's courts, and a Miscellaneous matter shows no court field. The same searchable dropdown is also on the Bill of Costs screen so you can change the court there. Start typing to filter, pick one, or type your own. The list now appears reliably above the form instead of being cut off.",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.6.12/LegalBill.Setup.2.6.12.exe",
+      "releaseDate": "2026-07-08",
+      "minTier": "bsc"
+    },
+    {
       "version": "2.6.11",
       "type": "free",
       "title": "Searchable court picker on the Bill of Costs",

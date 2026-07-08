@@ -2,6 +2,15 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "2.6.6",
+      "type": "free",
+      "title": "Instant logout / login fix",
+      "notes": "Fixes the login page being frozen after you sign out (previously you had to restart the app). Signing out no longer waits on the network — the login screen appears immediately and is ready to use, and the session is cleared in the background.",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.6.6/LegalBill.Setup.2.6.6.exe",
+      "releaseDate": "2026-07-07",
+      "minTier": "bsc"
+    },
+    {
       "version": "2.6.5",
       "type": "free",
       "title": "Update crash fix",

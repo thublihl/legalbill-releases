@@ -2,6 +2,15 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "2.6.17",
+      "type": "free",
+      "title": "Sign-in screen now shows what LegalBill does",
+      "notes": "The sign-in screen now carries a short description of what LegalBill does — matters and billable time, fee notes, bills of costs, and trust accounting & VAT — set neatly beneath the tagline. The layout was tightened so the whole sign-in screen still fits without a scrollbar, even on smaller laptop displays.",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.6.17/LegalBill.Setup.2.6.17.exe",
+      "releaseDate": "2026-07-09",
+      "minTier": "bsc"
+    },
+    {
       "version": "2.6.16",
       "type": "free",
       "title": "Smaller Canaan AI signature on the sign-in screen",

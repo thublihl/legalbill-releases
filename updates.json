@@ -2,6 +2,15 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "2.6.16",
+      "type": "free",
+      "title": "Smaller Canaan AI signature on the sign-in screen",
+      "notes": "The 'Powered by Canaan AI' signature on the sign-in screen is now smaller and sits as a modest footer, so it no longer competes with the 'Welcome back' heading. Matches the compact signature used in the LegalBill mobile app. No functional changes.",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.6.16/LegalBill.Setup.2.6.16.exe",
+      "releaseDate": "2026-07-09",
+      "minTier": "bsc"
+    },
+    {
       "version": "2.6.15",
       "type": "free",
       "title": "Sign-in screen fits without scrollbars",

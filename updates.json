@@ -2,6 +2,15 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "2.8.2",
+      "type": "free",
+      "title": "A brand-new sign-in experience and desktop icon",
+      "notes": "The sign-in page has been completely redesigned. A rich LegalBill brand panel now sits beside the sign-in card, telling the full story of your practice: matters and time-based fee notes, Bills of Costs with allocatur, trust accounting, VAT, and the separate Advocates Office with its own books - for attorneys and advocates alike. The sign-in card itself is cleaner and now uses LegalBill navy and gold throughout, with an encrypted / POPIA-aligned / cloud-synced trust strip, and remains proudly powered by Canaan AI. LegalBill also gets a brand-new Windows-style desktop icon - a navy letter tile beside a gold-accented fee note - so it looks right at home next to your other professional apps.",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.8.2/LegalBill.Setup.2.8.2.exe",
+      "releaseDate": "2026-07-10",
+      "minTier": "bsc"
+    },
+    {
       "version": "2.8.1",
       "type": "free",
       "title": "True counsel billing in the Advocates Office; firm side simplified",

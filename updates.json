@@ -2,6 +2,15 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "2.10.0",
+      "type": "free",
+      "title": "A tidier app - every section now folds away",
+      "notes": "Every major section across LegalBill is now collapsible and starts closed, so each screen opens as a clean summary and you expand only what you need. This covers the dashboard panels and charts, fee notes grouped by matter, trust transactions, the tax lists and income-tax cards, the compliance calendar, configuration settings, and the sections inside client, matter and fee-note detail views. Sections you open are remembered on your device.",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.10.0/LegalBill.Setup.2.10.0.exe",
+      "releaseDate": "2026-07-10",
+      "minTier": "free"
+    },
+    {
       "version": "2.9.2",
       "type": "free",
       "title": "The premium icon now shows on your desktop shortcut",

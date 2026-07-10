@@ -2,6 +2,15 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "2.8.0",
+      "type": "free",
+      "title": "Two separate practices - Advocates Office & Law Firm",
+      "notes": "Attorneys and advocates practise separately in South Africa, and LegalBill now works the same way. After signing in you choose where you are working: the Advocates Office or the Law Firm. The two offices are completely separate - each keeps its own clients, matters, fee notes, receipts, numbering, banking, logo and settings, and they never see each other's books. The Advocates Office is counsel's own chambers practice: instructing attorneys instead of clients, briefs instead of matters (numbered BRF-0001 onwards), fee notes numbered FN-0001 onwards at your own negotiated rates, and briefs can be recorded in every forum counsel appears in - the Constitutional Court, the Supreme Court of Appeal, the High Court and the Magistrates' Courts - with the correct court heading filled in for you. The Law Firm side keeps everything attorneys need: trust account, gazette tariffs, Bills of Costs and the counsel your firm briefs. Switch between offices any time from the account menu, and backups now say which office they belong to.",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.8.0/LegalBill.Setup.2.8.0.exe",
+      "releaseDate": "2026-07-10",
+      "minTier": "bsc"
+    },
+    {
       "version": "2.7.4",
       "type": "free",
       "title": "Counsel billing - advocates sign in, bill the firm & track payments",
@@ -40,8 +49,8 @@
     {
       "version": "2.7.0",
       "type": "free",
-      "title": "Big usability update — search everything with Ctrl+K",
-      "notes": "LegalBill gets a major polish across every page. Press Ctrl+K (or click Search in the top bar) to instantly find any client, matter, fee note, estimate, receipt or trust transaction — or jump to any page — with full keyboard control. The Receipts and Estimates pages now have their own search boxes. Every popup uses the new styled dialog (no more plain browser popups, and this also removes a Windows quirk that could leave the app unresponsive after a popup). Dialogs open ready to type, Esc closes them, and the dashboard gains + New matter and + Trust transaction shortcuts.",
+      "title": "Big usability update \u2014 search everything with Ctrl+K",
+      "notes": "LegalBill gets a major polish across every page. Press Ctrl+K (or click Search in the top bar) to instantly find any client, matter, fee note, estimate, receipt or trust transaction \u2014 or jump to any page \u2014 with full keyboard control. The Receipts and Estimates pages now have their own search boxes. Every popup uses the new styled dialog (no more plain browser popups, and this also removes a Windows quirk that could leave the app unresponsive after a popup). Dialogs open ready to type, Esc closes them, and the dashboard gains + New matter and + Trust transaction shortcuts.",
       "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.7.0/LegalBill.Setup.2.7.0.exe",
       "releaseDate": "2026-07-09",
       "minTier": "bsc"
@@ -50,7 +59,7 @@
       "version": "2.6.17",
       "type": "free",
       "title": "Sign-in screen now shows what LegalBill does",
-      "notes": "The sign-in screen now carries a short description of what LegalBill does — matters and billable time, fee notes, bills of costs, and trust accounting & VAT — set neatly beneath the tagline. The layout was tightened so the whole sign-in screen still fits without a scrollbar, even on smaller laptop displays.",
+      "notes": "The sign-in screen now carries a short description of what LegalBill does \u2014 matters and billable time, fee notes, bills of costs, and trust accounting & VAT \u2014 set neatly beneath the tagline. The layout was tightened so the whole sign-in screen still fits without a scrollbar, even on smaller laptop displays.",
       "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.6.17/LegalBill.Setup.2.6.17.exe",
       "releaseDate": "2026-07-09",
       "minTier": "bsc"
@@ -68,7 +77,7 @@
       "version": "2.6.15",
       "type": "free",
       "title": "Sign-in screen fits without scrollbars",
-      "notes": "The sign-in screen now fits fully on screen without scrollbars, even on smaller laptop displays — the layout was tightened and is vertically centred. The oversized tagline text baked inside the Canaan AI logo has been removed; the readable 'Intelligent solutions for Africa & beyond' line beneath the logo remains.",
+      "notes": "The sign-in screen now fits fully on screen without scrollbars, even on smaller laptop displays \u2014 the layout was tightened and is vertically centred. The oversized tagline text baked inside the Canaan AI logo has been removed; the readable 'Intelligent solutions for Africa & beyond' line beneath the logo remains.",
       "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.6.15/LegalBill.Setup.2.6.15.exe",
       "releaseDate": "2026-07-08",
       "minTier": "bsc"
@@ -86,7 +95,7 @@
       "version": "2.6.13",
       "type": "free",
       "title": "Canaan AI branding on the sign-in screen",
-      "notes": "The sign-in screen now carries a professional 'Powered by Canaan AI' signature — the Canaan AI logo and the support@canaanai.co.za contact — beneath the sign-in form.",
+      "notes": "The sign-in screen now carries a professional 'Powered by Canaan AI' signature \u2014 the Canaan AI logo and the support@canaanai.co.za contact \u2014 beneath the sign-in form.",
       "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.6.13/LegalBill.Setup.2.6.13.exe",
       "releaseDate": "2026-07-08",
       "minTier": "bsc"
@@ -113,7 +122,7 @@
       "version": "2.6.10",
       "type": "free",
       "title": "Fee notes grouped by matter + matter payments",
-      "notes": "Fee notes are now grouped under their matter everywhere, in collapsible sections you can expand to view or edit each one. High Court and Magistrate matters are billed and paid as a whole: the matter shows one combined total and balance, and you record a single payment against the matter (individual court fee notes no longer take their own payment). A court matter must be marked Finalised before you can record payment — matching the rule that court fees are paid once the matter is finalised in court; each matter payment produces a professional matter receipt. Miscellaneous matters keep their per-fee-note invoices and receipts. Dashboard, aging and 'received' totals now count court matters at matter level. The Bill of Costs taxing-master section has been redesigned as a proper Allocatur certificate.",
+      "notes": "Fee notes are now grouped under their matter everywhere, in collapsible sections you can expand to view or edit each one. High Court and Magistrate matters are billed and paid as a whole: the matter shows one combined total and balance, and you record a single payment against the matter (individual court fee notes no longer take their own payment). A court matter must be marked Finalised before you can record payment \u2014 matching the rule that court fees are paid once the matter is finalised in court; each matter payment produces a professional matter receipt. Miscellaneous matters keep their per-fee-note invoices and receipts. Dashboard, aging and 'received' totals now count court matters at matter level. The Bill of Costs taxing-master section has been redesigned as a proper Allocatur certificate.",
       "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.6.10/LegalBill.Setup.2.6.10.exe",
       "releaseDate": "2026-07-08",
       "minTier": "bsc"
@@ -121,8 +130,8 @@
     {
       "version": "2.6.9",
       "type": "free",
-      "title": "Bill of Costs — single continuous table",
-      "notes": "The Bill of Costs now shows the items and the taxation section as one continuous table: the grand total and the taxation breakdown (Less taxed off, Subtotal, VAT, Drawing fee, Disbursements, Attending taxation) follow directly under the last item, with the amount-in-words line and Taxing Master signature beneath. The firm's certificate — gazette citation, 'Dated at', signature and banking details — now appears last, at the very end of the bill. Applies to High Court and Magistrate bills.",
+      "title": "Bill of Costs \u2014 single continuous table",
+      "notes": "The Bill of Costs now shows the items and the taxation section as one continuous table: the grand total and the taxation breakdown (Less taxed off, Subtotal, VAT, Drawing fee, Disbursements, Attending taxation) follow directly under the last item, with the amount-in-words line and Taxing Master signature beneath. The firm's certificate \u2014 gazette citation, 'Dated at', signature and banking details \u2014 now appears last, at the very end of the bill. Applies to High Court and Magistrate bills.",
       "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.6.9/LegalBill.Setup.2.6.9.exe",
       "releaseDate": "2026-07-08",
       "minTier": "bsc"
@@ -131,7 +140,7 @@
       "version": "2.6.8",
       "type": "free",
       "title": "Bill of Costs taxation block + matter parties",
-      "notes": "Bill of Costs (High Court and Magistrate): the grand total no longer repeats at the bottom of every page — it now appears once at the end, followed by a taxation section (Less taxed off, Subtotal, Plus 15% VAT on fees, Add 11% drawing fee, Subtotal, Add disbursements, Subtotal, Add attending taxation) with an amount-in-words line and a Taxing Master signature. The blank amounts are completed by the court on taxation. When creating or editing a matter, applicants and respondents are now entered as separate name + role rows (1st Applicant, 2nd Applicant, and so on) with add and remove buttons, matching the Bill of Costs form.",
+      "notes": "Bill of Costs (High Court and Magistrate): the grand total no longer repeats at the bottom of every page \u2014 it now appears once at the end, followed by a taxation section (Less taxed off, Subtotal, Plus 15% VAT on fees, Add 11% drawing fee, Subtotal, Add disbursements, Subtotal, Add attending taxation) with an amount-in-words line and a Taxing Master signature. The blank amounts are completed by the court on taxation. When creating or editing a matter, applicants and respondents are now entered as separate name + role rows (1st Applicant, 2nd Applicant, and so on) with add and remove buttons, matching the Bill of Costs form.",
       "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.6.8/LegalBill.Setup.2.6.8.exe",
       "releaseDate": "2026-07-08",
       "minTier": "bsc"
@@ -139,7 +148,7 @@
     {
       "version": "2.6.7",
       "type": "free",
-      "title": "Login-after-logout freeze — real fix",
+      "title": "Login-after-logout freeze \u2014 real fix",
       "notes": "Definitively fixes the login page being frozen after you sign out (you previously had to close and reopen the app). The sign-out confirmation used a native Windows pop-up, and after it closed the window could lose keyboard/mouse focus, leaving the sign-in page visible but unresponsive. Signing out now uses an in-app confirmation that stays inside the window, so the login screen always stays clickable and you can sign straight back in.",
       "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.6.7/LegalBill.Setup.2.6.7.exe",
       "releaseDate": "2026-07-08",
@@ -149,7 +158,7 @@
       "version": "2.6.6",
       "type": "free",
       "title": "Instant logout / login fix",
-      "notes": "Fixes the login page being frozen after you sign out (previously you had to restart the app). Signing out no longer waits on the network — the login screen appears immediately and is ready to use, and the session is cleared in the background.",
+      "notes": "Fixes the login page being frozen after you sign out (previously you had to restart the app). Signing out no longer waits on the network \u2014 the login screen appears immediately and is ready to use, and the session is cleared in the background.",
       "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.6.6/LegalBill.Setup.2.6.6.exe",
       "releaseDate": "2026-07-07",
       "minTier": "bsc"
@@ -221,7 +230,7 @@
       "version": "2.5.0",
       "type": "free",
       "title": "All-new clean white theme",
-      "notes": "A complete visual refresh inspired by the design of X: crisp white surfaces with hairline dividers, bold black headings, rounded pill buttons with a single blue accent, soft grey stat tiles, pill navigation in the sidebar, and a minimal white sign-in screen. Purely visual — no data or workflow changes. (Also repairs the update feed, which was malformed since v2.4.5.)",
+      "notes": "A complete visual refresh inspired by the design of X: crisp white surfaces with hairline dividers, bold black headings, rounded pill buttons with a single blue accent, soft grey stat tiles, pill navigation in the sidebar, and a minimal white sign-in screen. Purely visual \u2014 no data or workflow changes. (Also repairs the update feed, which was malformed since v2.4.5.)",
       "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.5.0/LegalBill.Setup.2.5.0.exe",
       "releaseDate": "2026-07-07",
       "minTier": "bsc"
@@ -230,7 +239,7 @@
       "version": "2.4.5",
       "type": "free",
       "title": "Cleaner header & toned-down colours",
-      "notes": "UI refinements to the header and navigation: the crest icon has been removed for a cleaner look, the header is now a flat dark navy instead of a multi-stop gradient, the gold shimmer on the 'Bill' wordmark is replaced with a calm solid gold, primary action buttons throughout the app are now a consistent navy instead of the gold gradient, the active tab indicator is a flat navy underline instead of a glowing gold bar, and the account avatar is a quiet frosted circle. No data changes — install by double-clicking the installer.",
+      "notes": "UI refinements to the header and navigation: the crest icon has been removed for a cleaner look, the header is now a flat dark navy instead of a multi-stop gradient, the gold shimmer on the 'Bill' wordmark is replaced with a calm solid gold, primary action buttons throughout the app are now a consistent navy instead of the gold gradient, the active tab indicator is a flat navy underline instead of a glowing gold bar, and the account avatar is a quiet frosted circle. No data changes \u2014 install by double-clicking the installer.",
       "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.4.5/LegalBill.Setup.2.4.5.exe",
       "releaseDate": "2026-07-06",
       "minTier": "bsc"
@@ -257,7 +266,7 @@
       "version": "2.4.0",
       "type": "free",
       "title": "New minimalist design + sign-in fix",
-      "notes": "A clean, minimalist redesign: a warm paper background, charcoal text, a single muted terracotta accent, hairline borders and flat surfaces (no more heavy gradients, glows or glass blur) — across the whole app and the login screen. This release also restores the sign-in code that versions 2.3.0/2.3.1 accidentally dropped (they could not log in), and keeps the reorganised navigation (each Settings function in its own tab; Settings renamed Configuration settings) and the reliable update downloader. If you are stuck on the login screen, install this once by double-clicking the installer; your data is untouched.",
+      "notes": "A clean, minimalist redesign: a warm paper background, charcoal text, a single muted terracotta accent, hairline borders and flat surfaces (no more heavy gradients, glows or glass blur) \u2014 across the whole app and the login screen. This release also restores the sign-in code that versions 2.3.0/2.3.1 accidentally dropped (they could not log in), and keeps the reorganised navigation (each Settings function in its own tab; Settings renamed Configuration settings) and the reliable update downloader. If you are stuck on the login screen, install this once by double-clicking the installer; your data is untouched.",
       "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.4.0/LegalBill.Setup.2.4.0.exe",
       "releaseDate": "2026-07-05",
       "minTier": "bsc"
@@ -274,7 +283,7 @@
     {
       "version": "2.3.0",
       "type": "free",
-      "title": "Reorganised navigation — a tab for each area",
+      "title": "Reorganised navigation \u2014 a tab for each area",
       "notes": "The Settings area has been split up so each function has its own tab: Cost estimates, Receipts, Firm details, Billing settings, Court fee tariffs, User management and My account are now separate tabs in the sidebar. The old PDF-report shortcut was removed (client statements are still available from a client's page), and the remaining Settings tab is renamed Configuration settings. Firm details, Billing settings, Court fee tariffs, User management and Configuration settings stay administrator-only.",
       "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.3.0/LegalBill.Setup.2.3.0.exe",
       "releaseDate": "2026-07-05",
@@ -292,7 +301,7 @@
     {
       "version": "2.1.1",
       "type": "free",
-      "title": "Full gazette tariff lists — every item",
+      "title": "Full gazette tariff lists \u2014 every item",
       "notes": "Completeness update to the fee tariffs. The High Court and Magistrate work-done dropdowns now contain every line item exactly as published in the 2025 gazettes, including the Sec 65/72/74 additional-costs disbursement and tracing lines, collection-commission percentages, the reserved slots (High Court D-04, Magistrate IV-25), Part I-05, and the counsel travelling-time line. High Court 33 items; Magistrate 148 items. Descriptions re-transcribed to match the gazette. All rates, caps and minimums editable under Settings.",
       "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.1.1/LegalBill.Setup.2.1.1.exe",
       "releaseDate": "2026-07-05",

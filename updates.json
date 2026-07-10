@@ -2,6 +2,15 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "2.7.4",
+      "type": "free",
+      "title": "Counsel billing - advocates sign in, bill the firm & track payments",
+      "notes": "Advocates can now sign in with their own login (Advocate role, linked to their advocate profile by email) and see a private billing workspace: capture fee notes to the firm using real counsel billing structures - hourly, day/brief fee, preparation, or fixed/collapsed fee, with optional VAT - and track exactly what has been billed, received and is still outstanding, plus the matters they are briefed on. They see only their own billing, never the firm's books. For attorneys and admins: the Advocates page now shows a firm-wide 'Owed to counsel' total, each advocate shows their unpaid balance, and every advocate's page lists their fee notes with billed/paid/owed figures - record payments to counsel right there. Every counsel fee note prints as a professional PDF from the advocate to the firm, numbered CFN-0001 onwards.",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.7.4/LegalBill.Setup.2.7.4.exe",
+      "releaseDate": "2026-07-10",
+      "minTier": "bsc"
+    },
+    {
       "version": "2.7.3",
       "type": "free",
       "title": "Advocates section + role-based access for every user",

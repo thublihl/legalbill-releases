@@ -2,6 +2,15 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "2.7.3",
+      "type": "free",
+      "title": "Advocates section + role-based access for every user",
+      "notes": "New Advocates tab: keep a directory of the counsel your firm briefs - name, chambers, bar, specialisation, rate and whether they are a trust-account advocate. Link an advocate to a matter when you brief them; the matter shows who is briefed and the advocate's page lists all their briefs. Role-based access is now enforced on every action, not just tabs: each user's role (System Administrator, Attorney, Advocate, Bookkeeper, Secretary, Read-only) controls exactly what they can create, edit, delete and pay, and the Users & roles screen shows a full permission table for every role. New 'Advocate (Counsel)' role lets briefed counsel capture fee entries and reports without access to payments or the trust account.",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.7.3/LegalBill.Setup.2.7.3.exe",
+      "releaseDate": "2026-07-10",
+      "minTier": "bsc"
+    },
+    {
       "version": "2.7.2",
       "type": "free",
       "title": "Calmer home page, auto-sync every few seconds & easier email setup",

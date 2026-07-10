@@ -2,6 +2,15 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "2.9.0",
+      "type": "free",
+      "title": "Tax & Compliance centre - separate taxation for attorneys and advocates",
+      "notes": "The Tax tab is now a full South African tax compliance centre, and it is different in each office because attorneys and advocates are taxed differently. Set up your tax profile once (sole practitioner or incorporated at 27 percent, VAT registration and category, employees) and the app does the rest from the fee notes, payments and expenses you already capture. The new Income tax tab shows your taxable income live on either the accrual or cash basis, calculates income tax on the 2026 SARS tables, suggests your IRP6 provisional estimates from your actual figures, warns you before the 20 percent underestimation penalty, and records the payments you make. The Compliance calendar lays out every deadline for the year - IRP6 by 31 August and end February, the annual return by 31 January, VAT201 every two months with the net VAT already calculated from your records, and monthly EMP201 if you employ staff - each with a status chip you tick off as you file. Expense capturing now has searchable SARS-deductible categories tailored to your practice: chambers fees, Bar subscriptions and robes for advocates; staff, law library, indemnity insurance and more for firms. The app also watches the R1 million VAT registration threshold, reminds firms that trust money stays out of tax, flags bad debts, and warns advocates about the cash-flow trap of fee notes paid late in the year. Print the whole story as an Income tax pack PDF for your accountant.",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.9.0/LegalBill.Setup.2.9.0.exe",
+      "releaseDate": "2026-07-10",
+      "minTier": "free"
+    },
+    {
       "version": "2.8.2",
       "type": "free",
       "title": "A brand-new sign-in experience and desktop icon",

@@ -2,6 +2,15 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "2.7.1",
+      "type": "free",
+      "title": "Home page numbers you can act on",
+      "notes": "The Home page summaries now tell you what matters right now instead of all-time totals. Received and Billed show this month's figures with an up/down trend against last month; Outstanding shows how much of it is overdue and on how many fee notes; Trust held shows how many clients the money belongs to. Click any summary card to jump straight to the page behind the number.",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.7.1/LegalBill.Setup.2.7.1.exe",
+      "releaseDate": "2026-07-10",
+      "minTier": "bsc"
+    },
+    {
       "version": "2.7.0",
       "type": "free",
       "title": "Big usability update — search everything with Ctrl+K",

@@ -2,6 +2,15 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "2.7.2",
+      "type": "free",
+      "title": "Calmer home page, auto-sync every few seconds & easier email setup",
+      "notes": "Home page: the charts are tucked away behind a 'Show charts' button and recent activity is now grouped under each matter, so you can see at a glance what happened on which case. My account: edit all your personal details (name, username, phone), not just your password. Court tariffs: the Government Gazette certificate wording printed on bills of costs and statements is now editable per court, so you can update it yourself when a new tariff notice is gazetted. Configuration settings: choose how often LegalBill auto-syncs with the cloud (every 5 seconds up to every 5 minutes, or off), and email/SMTP setup is much easier - type your email address and the server settings fill in automatically, with clear error messages and a test that saves your settings when it works.",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.7.2/LegalBill.Setup.2.7.2.exe",
+      "releaseDate": "2026-07-10",
+      "minTier": "bsc"
+    },
+    {
       "version": "2.7.1",
       "type": "free",
       "title": "Home page numbers you can act on",

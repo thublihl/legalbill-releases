@@ -2,6 +2,15 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "2.7.0",
+      "type": "free",
+      "title": "Big usability update — search everything with Ctrl+K",
+      "notes": "LegalBill gets a major polish across every page. Press Ctrl+K (or click Search in the top bar) to instantly find any client, matter, fee note, estimate, receipt or trust transaction — or jump to any page — with full keyboard control. The Receipts and Estimates pages now have their own search boxes. Every popup uses the new styled dialog (no more plain browser popups, and this also removes a Windows quirk that could leave the app unresponsive after a popup). Dialogs open ready to type, Esc closes them, and the dashboard gains + New matter and + Trust transaction shortcuts.",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.7.0/LegalBill.Setup.2.7.0.exe",
+      "releaseDate": "2026-07-09",
+      "minTier": "bsc"
+    },
+    {
       "version": "2.6.17",
       "type": "free",
       "title": "Sign-in screen now shows what LegalBill does",

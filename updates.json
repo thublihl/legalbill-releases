@@ -2,6 +2,15 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "2.8.1",
+      "type": "free",
+      "title": "True counsel billing in the Advocates Office; firm side simplified",
+      "notes": "The two practices now bill the way they really do in South Africa. On the Law Firm side, everything to do with advocates has been removed - counsel are not tracked as a directory or billed separately. When your advocate's fee note arrives, you simply capture it on the client's fee note as a DISBURSEMENT (the fee note form now reminds you of this), exactly as the referral system works: the attorney pays counsel and recovers it from the client. In the Advocates Office, billing no longer looks anything like attorney billing: there are no court tariffs at all. Every fee line uses a real counsel fee structure - Brief fee (preparation, consultation & heads of argument), Daily fee for court appearances (days x fee per day), Hourly work for consultations, research and drafting, Preparation fee, or a Fixed/collapsed fee - each with the standard wording filled in for you. The fee note prints as a proper counsel FEE NOTE addressed 'INSTRUCTED BY' your attorney, with the brief reference and matter, and terms of 7 days with a request to forward to the client for settlement. Advocates who sign in now go straight to their own office - the firm's books are never shown to them.",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.8.1/LegalBill.Setup.2.8.1.exe",
+      "releaseDate": "2026-07-10",
+      "minTier": "bsc"
+    },
+    {
       "version": "2.8.0",
       "type": "free",
       "title": "Two separate practices - Advocates Office & Law Firm",

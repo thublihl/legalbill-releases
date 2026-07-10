@@ -2,6 +2,15 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "2.9.1",
+      "type": "free",
+      "title": "A warmer, more elegant sign-in - and a premium desktop icon",
+      "notes": "The sign-in page now carries the LegalBill brand look: a warm parchment panel framed in gold with the scales-of-justice motif, a classic navy serif headline and gold feature ticks, next to the sign-in card - replacing the previous deep-blue panel. The desktop icon has also been given a premium gold-framed finish, so LegalBill looks the part on your desktop and taskbar.",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.9.1/LegalBill.Setup.2.9.1.exe",
+      "releaseDate": "2026-07-10",
+      "minTier": "free"
+    },
+    {
       "version": "2.9.0",
       "type": "free",
       "title": "Tax & Compliance centre - separate taxation for attorneys and advocates",

@@ -2,6 +2,15 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "2.11.0",
+      "type": "free",
+      "title": "7-day free trial and device activation",
+      "notes": "LegalBill can now be tried free for 7 days on any new device - after that a friendly activation screen appears at sign-in and the app unlocks with your licence key plus a device activation code (your data is never touched while you activate). Licensed firms: your Settings > Licence card now shows this device's code and an Activate now link - send us the device code shown there and we reply with your activation code, which permanently unlocks that device. Buy licences or request activation at canaanai.co.za/portal.html or info@canaanai.co.za.",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.11.0/LegalBill.Setup.2.11.0.exe",
+      "releaseDate": "2026-07-11",
+      "minTier": "free"
+    },
+    {
       "version": "2.10.1",
       "type": "free",
       "title": "Terms & conditions on installation",

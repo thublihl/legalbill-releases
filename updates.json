@@ -2,6 +2,15 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "2.10.1",
+      "type": "free",
+      "title": "Terms & conditions on installation",
+      "notes": "LegalBill now presents its licence terms up front: the installer shows a licence-acceptance page, and on first run each device is asked to read and accept a short terms summary (once-off perpetual licence, your data stays in your own database, support at support@canaanai.co.za). You can re-read the terms any time under Configuration settings > Licence > Terms & conditions.",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.10.1/LegalBill.Setup.2.10.1.exe",
+      "releaseDate": "2026-07-11",
+      "minTier": "free"
+    },
+    {
       "version": "2.10.0",
       "type": "free",
       "title": "A tidier app - every section now folds away",

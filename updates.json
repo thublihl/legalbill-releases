@@ -2,6 +2,15 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "2.12.1",
+      "type": "free",
+      "title": "Version shown in the app",
+      "notes": "LegalBill now shows exactly which version you are running — on the sign-in screen and under Settings → Licence. Handy when checking you are up to date or asking for support.",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.12.1/LegalBill.Setup.2.12.1.exe",
+      "releaseDate": "2026-07-12",
+      "minTier": "free"
+    },
+    {
       "version": "2.12.0",
       "type": "free",
       "title": "Secure online licensing",

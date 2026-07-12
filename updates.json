@@ -2,6 +2,15 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "2.12.2",
+      "type": "free",
+      "title": "Updated terms & conditions",
+      "notes": "Terms & conditions v1.1: the 90-day warranty clause is replaced by the free 7-day trial — evaluate LegalBill fully before you buy. The app shows the updated terms once for acceptance; everything else is unchanged.",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.12.2/LegalBill.Setup.2.12.2.exe",
+      "releaseDate": "2026-07-12",
+      "minTier": "free"
+    },
+    {
       "version": "2.12.1",
       "type": "free",
       "title": "Version shown in the app",

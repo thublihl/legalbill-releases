@@ -2,6 +2,15 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "2.12.0",
+      "type": "free",
+      "title": "Secure online licensing",
+      "notes": "Licensing is now verified securely online. The 7-day free trial can no longer be reset, and licences activate with just your licence key and the email you bought with — no more device-code exchange. Each licence works on the number of devices its plan allows (Solo 2, Small Firm 5, Growing 12), and your firm can see and release activated devices in the Canaan AI portal. Your data is never touched. Buy or manage licences at canaanai.co.za/portal.html.",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.12.0/LegalBill.Setup.2.12.0.exe",
+      "releaseDate": "2026-07-12",
+      "minTier": "free"
+    },
+    {
       "version": "2.11.0",
       "type": "free",
       "title": "7-day free trial and device activation",

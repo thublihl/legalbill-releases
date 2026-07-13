@@ -2,6 +2,15 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "2.12.5",
+      "type": "free",
+      "title": "Faster, safer engine under the hood",
+      "notes": "This update upgrades LegalBill's underlying engine to the latest version (two years of security and stability improvements from the Chrome team), makes emailed fee notes connect to your mail server with full security-certificate verification, and streamlines how updates are built and delivered to you. No changes to your data or how you work - everything simply runs on a newer, safer foundation.",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.12.5/LegalBill.Setup.2.12.5.exe",
+      "releaseDate": "2026-07-13",
+      "minTier": "free"
+    },
+    {
       "version": "2.12.4",
       "type": "free",
       "title": "Confirmed-account trials",

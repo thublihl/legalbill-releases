@@ -3,9 +3,12 @@
   "updates": [
     {
       "version": "2.12.3",
-      "date": "2026-07-13",
+      "type": "free",
+      "title": "Trial licence keys",
+      "notes": "Every 7-day free trial now gets a real trial licence key, bound to your email and valid on one device only. Your key shows under Settings → Licence.",
       "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.12.3/LegalBill.Setup.2.12.3.exe",
-      "notes": "Trial licences: every 7-day free trial now gets a real trial licence key bound to your email, valid on one device only. Your key shows under Settings → Licence."
+      "releaseDate": "2026-07-13",
+      "minTier": "free"
     },
     {
       "version": "2.12.2",

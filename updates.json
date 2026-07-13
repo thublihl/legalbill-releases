@@ -2,6 +2,15 @@
   "channel": "stable",
   "updates": [
     {
+      "version": "2.12.4",
+      "type": "free",
+      "title": "Confirmed-account trials",
+      "notes": "Your free 7-day trial now needs a confirmed canaanai.co.za account, which stops fake-email abuse. Sign up on the portal, click the confirmation link, then start your trial with that email.",
+      "url": "https://github.com/thublihl/legalbill-releases/releases/download/v2.12.4/LegalBill.Setup.2.12.4.exe",
+      "releaseDate": "2026-07-13",
+      "minTier": "free"
+    },
+    {
       "version": "2.12.3",
       "type": "free",
       "title": "Trial licence keys",
